@@ -1,5 +1,5 @@
 <template>
-    <h1>我是Count组件</h1>
+    <h1>Count组件</h1>
     <h2>Count:{{ count }}</h2>
     <h2>{{ name }}</h2>
     <button @click="addCount">+</button>&nbsp;
