@@ -1,5 +1,5 @@
 <template>
-    <h1>我是Person组件</h1>
+    <h2>我是Person组件</h2>
     <ul>
         <li v-for="item in userInfo" :key="item.id">{{
             item.name

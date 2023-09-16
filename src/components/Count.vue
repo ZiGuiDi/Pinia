@@ -1,4 +1,4 @@
-<template>
+gti<template>
     <h1>Count组件</h1>
     <h2>Count:{{ count }}</h2>
     <h2>{{ name }}</h2>
